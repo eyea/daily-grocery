@@ -1,2 +1,10 @@
-# DailyIssues
-For all  the updates , see Issues &amp;&amp; Wiki :smile
+### Basic Introductions
+This is my daily issues notes. 
+### DailyIssues Lists
+
+
+
+
+
+### 工具类
+-[oh-my-zsh](https://github.com/eyea/DailyIssues/issues/2)
