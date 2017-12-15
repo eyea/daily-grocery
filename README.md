@@ -12,4 +12,4 @@ This is my daily issues notes.
 ### 工具类
 - [oh-my-zsh](https://github.com/eyea/DailyIssues/issues/2)
 - [Vim](https://github.com/eyea/DailyIssues/issues/1)
-
+- [Git](https://github.com/eyea/DailyIssues/issues/4)
