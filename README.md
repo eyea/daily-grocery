@@ -1,15 +1,18 @@
 ### Basic Introductions
-This is my daily issues notes. 
-### DailyIssues Lists
+This is my daily issues notes. More details are as follows:
 
 
-
-
-### ES6
+### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
 
 
-### 工具类
+### Tools
 - [oh-my-zsh](https://github.com/eyea/DailyIssues/issues/2)
 - [Vim](https://github.com/eyea/DailyIssues/issues/1)
 - [Git](https://github.com/eyea/DailyIssues/issues/4)
+
+
+### TODO
+- [ ] Javascript
+- [ ] Tools
+- [x] README.md
