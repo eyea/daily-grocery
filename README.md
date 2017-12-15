@@ -2,6 +2,8 @@
 This is my daily issues notes. More details are as follows:
 
 
+[![blog](https://avatars3.githubusercontent.com/u/17020223?s=32&v=4)](https://eyea.github.io/)
+
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
 
