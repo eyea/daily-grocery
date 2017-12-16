@@ -7,6 +7,8 @@ This is my daily issues notes. More details are as follows:
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
 
+### HTTP
+- [CORS](https://github.com/eyea/DailyIssues/issues/5)
 
 ### Tools
 - [oh-my-zsh](https://github.com/eyea/DailyIssues/issues/2)
