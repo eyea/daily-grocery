@@ -1,8 +1,11 @@
-### Basic Introductions
+### Basic Introductions  [![blog](https://avatars3.githubusercontent.com/u/17020223?s=18&v=4)](https://eyea.github.io/)
+
 This is my daily issues notes. More details are as follows:
+[The issues](https://github.com/eyea/DailyIssues/issues) will keep up with [The code](https://github.com/eyea/DailyIssues) as possible.<br>
+All of you could join the project by creating new issues or submitting comments on the issues, even submitting merge request!<br>
 
 
-[![blog](https://avatars3.githubusercontent.com/u/17020223?s=32&v=4)](https://eyea.github.io/)
+---
 
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
