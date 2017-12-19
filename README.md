@@ -15,6 +15,8 @@ This is my daily issues notes. More details are as follows:
 - [Vim](https://github.com/eyea/DailyIssues/issues/1)
 - [Git](https://github.com/eyea/DailyIssues/issues/4)
 
+### Blockchain
+- [Blockchain](https://github.com/eyea/DailyIssues/issues/8)
 
 ### TODO
 - [ ] Javascript
