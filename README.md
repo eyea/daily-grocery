@@ -8,7 +8,7 @@ All of you could join the project by creating new issues or submitting comments 
 ---
 
 ### Vue2
-- [Vue2-weixin](https://github.com/eyea/vue-weixin)
+- [Vue2-wechat](https://github.com/eyea/vue-wechat)
 
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
