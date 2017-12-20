@@ -7,6 +7,9 @@ All of you could join the project by creating new issues or submitting comments 
 
 ---
 
+### Vue2
+- [Vue2-weixin](https://github.com/eyea/vue-weixin)
+
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
 
@@ -22,6 +25,7 @@ All of you could join the project by creating new issues or submitting comments 
 - [Blockchain](https://github.com/eyea/DailyIssues/issues/8)
 
 ### TODO
+- [ ] Vue-weixin
 - [ ] Javascript
 - [ ] Tools
 - [x] README.md
