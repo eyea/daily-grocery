@@ -12,6 +12,7 @@ All of you could join the project by creating new issues or submitting comments 
 
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
+ - [A little story about javascript](https://github.com/eyea/DailyIssues/issues/11)
 
 ### HTTP
 - [CORS](https://github.com/eyea/DailyIssues/issues/5)
