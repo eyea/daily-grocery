@@ -13,6 +13,7 @@ All of you could join the project by creating new issues or submitting comments 
 ### Javascript
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
  - [A little story about javascript](https://github.com/eyea/DailyIssues/issues/11)
+ - [freecodecampNotes](https://github.com/eyea/freecodecampNotes/issues)
 
 ### HTTP
 - [CORS](https://github.com/eyea/DailyIssues/issues/5)
@@ -29,4 +30,5 @@ All of you could join the project by creating new issues or submitting comments 
 - [ ] Vue-weixin
 - [ ] Javascript
 - [ ] Tools
+- [ ] freecodecampNotes
 - [x] README.md
