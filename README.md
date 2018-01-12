@@ -14,6 +14,7 @@ All of you could join the project by creating new issues or submitting comments 
  - [Promise](https://github.com/eyea/DailyIssues/issues/3)
  - [A little story about javascript](https://github.com/eyea/DailyIssues/issues/11)
  - [freecodecampNotes](https://github.com/eyea/freecodecampNotes/issues)
+ - [algorithm of javascript](https://github.com/eyea/dailyIssues/issues/14)
 
 ### HTTP
 - [CORS](https://github.com/eyea/DailyIssues/issues/5)
