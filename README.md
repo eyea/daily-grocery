@@ -15,7 +15,7 @@ All of you could join the project by creating new issues or submitting comments 
  - [A little story about javascript](https://github.com/eyea/DailyIssues/issues/11)
  - [freecodecampNotes](https://github.com/eyea/freecodecampNotes/issues)
  - [algorithm of javascript](https://github.com/eyea/dailyIssues/issues/14)
-
+ - [Leetcode](https://github.com/eyea/dailyIssues/blob/master/Leetcode.md)
 ### HTTP
 - [CORS](https://github.com/eyea/DailyIssues/issues/5)
 
@@ -32,4 +32,4 @@ All of you could join the project by creating new issues or submitting comments 
 - [ ] Javascript
 - [ ] Tools
 - [ ] freecodecampNotes
-- [x] README.md
+- [ ] Leetcode
