@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>No.1: two sum </title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+     <div>
+      Given nums = [2, 7, 11, 15], target = 9;
+      Because nums[0] + nums[1] = 2 + 7 = 9;
+      return [0, 1].
+    </div>
+    <script>
+      window.onload = function(){
+        let arr = [2,7,11,15],target = 9;
+        let f1 = (arr1,target) => {
+          let temArr = [];
+          for (let i=0;i<arr.length;i++) {
+            let curT = target - arr[i], curIndex = arr.indexOf(curT);
+            if (curIndex > -1) {
+              return temArr.concat(curIndex,i).sort()
+            }
+          }
+        };
+        console.log(f1(arr,target));
+      }
+      </script>
+  </body>
+
+</html>
