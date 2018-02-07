@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>find Long String</title>
+    <meta charset="UTF-8"/>
+  </head>
+  <body>
+    <div>Examples:
+
+Given "abcabcbb", the answer is "abc", which the length is 3.
+
+Given "bbbbb", the answer is "b", with the length of 1.
+
+Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.</div>
+  <script>
+    // window.onload = function() {
+      let res = [];
+      let str = '';
+      
+      let loopFun = (temArr) => {
+        for(let j=0;j<temArr.length;j++) {
+          if (str.indexOf(temArr[j]) === -1) {
+            str += temArr[i]
+          } else {
+            res.push(str);
+            str = '';
+          }
+        }
+      }
+      let lengthOfLongestSubstring = (s) => {
+        console.log('s origin', s)
+        let _that = this
+
+        if(res.length>0) {
+          for(let i=0;i<res.length;i++) {
+            let temS = s.split(res[i])[1]  // 分割数组
+            // _that.loopFun(temS)
+            for(let j=0;j<temS.length;j++) {
+              if (str.indexOf(temS[j]) === -1) {
+                str += temS[j]
+              } else {
+                res.push(str);
+                str = '';
+              }
+            }
+          }
+        } else {
+          // _that.loopFun(s)
+          for(let j=0;j<s.length;j++) {
+            if (str.indexOf(s[j]) === -1) {
+              str += s[j]
+              console.log('j',j)
+            } else {
+              console.log('??',j)
+              res.push(str);          
+              str = '';
+            }
+          }         
+        }
+
+
+        let arrLen = [];
+        arrLen = res.map((v) => {
+          return v.length
+        })
+        // console.log('str', res)
+        arrLen.sort();
+        return res[arrLen[arrLen.length-1]]
+      };
+      let showRes =  lengthOfLongestSubstring('abcabcdbb');
+      console.log('showRes', showRes)
+    // }
+  </script>
+  </body>
+
+
+</html>
