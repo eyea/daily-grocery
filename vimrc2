@@ -104,5 +104,4 @@ source $ZSH/oh-my-zsh.sh
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
-alias cs='ssh wangxudong@47.93.37.217 -p 52722'
-alias sx='ssh wangxudong@47.93.43.67 -p 52722'
+alias sx='ssh deyesea@ip'
