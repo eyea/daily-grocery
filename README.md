@@ -27,6 +27,9 @@ All of you could join the project by creating new issues or submitting comments 
 ### Blockchain
 - [Blockchain](https://github.com/eyea/DailyIssues/issues/8)
 
+### Nginx
+- [Nginx](https://www.nginx.com/)
+
 ### TODO
 - [ ] Vue-weixin
 - [ ] Javascript
