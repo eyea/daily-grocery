@@ -19,6 +19,9 @@ All of you could join the project by creating new issues or submitting comments 
 ### HTTP
 - [CORS](https://github.com/eyea/DailyIssues/issues/5)
 
+### HTML
+- [Video](https://github.com/eyea/DailyIssues/issues/52)
+
 ### Tools
 - [oh-my-zsh](https://github.com/eyea/DailyIssues/issues/2)
 - [Vim](https://github.com/eyea/DailyIssues/issues/1)
@@ -27,9 +30,13 @@ All of you could join the project by creating new issues or submitting comments 
 ### Blockchain
 - [Blockchain](https://github.com/eyea/DailyIssues/issues/8)
 
+### Nginx
+- [Nginx](https://github.com/eyea/dailyIssues/issues/50) (add Jenkins)
+
 ### TODO
 - [ ] Vue-weixin
 - [ ] Javascript
 - [ ] Tools
 - [ ] freecodecampNotes
 - [ ] Leetcode
+- [ ] vue-cli + webpack 
