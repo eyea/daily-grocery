@@ -33,6 +33,9 @@ All of you could join the project by creating new issues or submitting comments 
 ### Nginx
 - [Nginx](https://github.com/eyea/dailyIssues/issues/50) (add Jenkins)
 
+### Mysql
+- [mysql](https://github.com/eyea/dailyIssues/issues/56)
+
 ### TODO
 - [ ] Vue-weixin
 - [ ] Javascript
