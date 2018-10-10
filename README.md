@@ -6,4 +6,6 @@
 
 
 ### history
-1. add coderwars file 
+1. add coderwars file [codewars website](http://www.codewars.com);
+2. add javascript30days file [javascript30days](https://javascript30.com/);
+3. add 100daysofcode file [100daysofcode](https://www.100daysofcode.com/);
