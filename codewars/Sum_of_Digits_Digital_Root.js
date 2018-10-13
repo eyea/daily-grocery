@@ -13,3 +13,26 @@
   }
  }
 }
+
+// 正确
+{
+  function digital_root(n) {
+   let res = 0
+   if(n.toString().length===1){
+     return res = n
+   }else {
+    n.toString().split('').map(v=>res+=parseInt(v, 10))
+   }
+   if(res>9) {
+    return digital_root(res)
+   }
+   return res
+  }
+}
+
+// 精彩解答
+{
+  function digital_root(n) {
+   return (n - 1) % 9 + 1;
+  }
+}
