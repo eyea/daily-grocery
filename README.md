@@ -1,8 +1,8 @@
 <h3>本项目作为日常issues和practice等乱七八糟的杂货铺</h3>
 
-- 1. For all  the updates , see https://github.com/eyea/dailyIssues/issues && Wiki
+- For all  the updates , see https://github.com/eyea/dailyIssues/issues && Wiki
 
-- 2. 如果没有按时更新，需要缴纳 `¥50` @CorazonSea 直到 @eyea 收入达到目前收入的(2019.4) `1.5` 后可以放松一下。:)
+- 如果没有按时更新，需要缴纳 `¥50` @CorazonSea 直到 @eyea 收入达到目前收入的(2019.4) `1.5` 后可以放松一下。:)
 
 
 ### history
