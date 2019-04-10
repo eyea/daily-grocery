@@ -1,9 +1,6 @@
 <h2>本项目作为日常issues和practice等乱七八糟的杂货铺</h2>
 
-
-
-
-
+<small>For all  the updates , see https://github.com/eyea/dailyIssues/issues && Wiki </small>
 
 ### history
 1. add coderwars file [codewars website](http://www.codewars.com);
