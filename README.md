@@ -1,6 +1,6 @@
 <h3>本项目作为日常issues和practice等乱七八糟的杂货铺</h3>
 
-- [Issues](https://github.com/eyea/dailyIssues/issues) && [Wiki](https://github.com/eyea/daily-grocery/wiki)
+- More details : [Issues](https://github.com/eyea/dailyIssues/issues) && [Wiki](https://github.com/eyea/daily-grocery/wiki)
 
 - 如果没有按时更新（从2019.4.10开始计算)，需要缴纳 `¥50` @CorazonSea 直到 @eyea 收入达到目前收入的(2019.4) `1.5` 后可以放松一下。:)
 
