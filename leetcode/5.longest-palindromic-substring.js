@@ -31,3 +31,39 @@ function expandFromCenter (s, left, right) {
   }
   return [++left, --right]
 }
+
+// 2
+// /**
+ * @param {string} s
+ * @return {string}
+ */
+
+let startIndex = 0
+let endIndex = 0
+
+let longestPalindrome = function(s) {
+  if (s.length<2) return s
+
+
+  for (let i=0; i<s.length-1;i++) {
+    deep(s, i, i)
+    deep(s, i, i+1)
+  }
+  if (endIndex >= s.length) {
+    return s.substring(startIndex)
+  }
+
+  console.log(startIndex, endIndex)
+  return s.substring(startIndex, endIndex)
+};
+
+let deep = function(s,left,right) {
+    while (s[left] === s[right] && left>=0 && right<s.length) {
+      left--
+      right++
+    }
+    if (right-left-1 > endIndex-startIndex) {
+      startIndex = left+1
+      endIndex = right
+    }
+}
